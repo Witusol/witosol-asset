@@ -1,0 +1,10 @@
+{
+  "name": "Witusol",
+  "symbol": "WTS",
+  "description": "Token resmi Witusol di jaringan Solana.",
+  "image": "https://raw.githubusercontent.com/Witusol/witosol-asset/main/WTSwitusoltoken.png",
+  "attributes": [
+    { "trait_type": "Project", "value": "Witusol Ecosystem" },
+    { "trait_type": "Network", "value": "Solana" }
+  ]
+}
