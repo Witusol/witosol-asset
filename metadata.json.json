@@ -1,7 +1,7 @@
 {
   "name": "Witusol Token",
   "symbol": "WTS",
-  "description": "Witusol adalah token berbasis Solana untuk mendukung teknologi dan jaringan masa depan.",
+  "description": "Witusol is a Solana-based token to support future technologies and networks.",
   "image": "https://raw.githubusercontent.com/Witusol/witosol-asset/main/WTSwitusoltoken.png",
   "properties": {
     "files": [
