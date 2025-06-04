@@ -1,24 +1,21 @@
 {
-  "name": "Witusol",
+  "name": "Witusol Token",
   "symbol": "WTS",
-  "description": "Witusol project token on the Solana network.",
-  "image": "https://raw.githubusercontent.com/Witusol/witosol-asset/refs/heads/main/WTSwitusoltoken.png",
-  "seller_fee_basis_points": 0,
-  "external_url": "https://witusol.com",
-  "creators": [
-    {
-      "address": "GVTpHRxQPjtQTENf3NTaHimeYUpmDcxoPtrwg7DSeT4c",
-      "share": 100
-    }
-  ],
-  "attributes": [],
+  "description": "Witusol adalah token berbasis Solana untuk mendukung teknologi dan jaringan masa depan.",
+  "image": "https://raw.githubusercontent.com/Witusol/witosol-asset/main/WTSwitusoltoken.png",
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/Witusol/witosol-asset/refs/heads/main/WTSwitusoltoken.png",
+        "uri": "https://raw.githubusercontent.com/Witusol/witosol-asset/main/WTSwitusoltoken.png",
         "type": "image/png"
       }
     ],
-    "category": "image"
+    "category": "image",
+    "creators": [
+      {
+        "address": "8vc1Mvx4s8RDemzn7G8e3XZQtvqMkjcRGiWEjh44hnLR",
+        "share": 100
+      }
+    ]
   }
 }
