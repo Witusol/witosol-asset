@@ -2,7 +2,7 @@
   "name": "Witusol",
   "symbol": "WTS",
   "description": "Witusol project token on the Solana network.",
-  "image": "https://raw.githubusercontent.com/Witusol/witusol-assets/refs/heads/utama/witusoltoken.png",
+  "image": "https://raw.githubusercontent.com/Witusol/witosol-asset/refs/heads/main/WTSwitusoltoken.png",
   "seller_fee_basis_points": 0,
   "external_url": "https://witusol.com",
   "creators": [
@@ -15,7 +15,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/Witusol/witusol-assets/refs/heads/utama/witusoltoken.png",
+        "uri": "https://raw.githubusercontent.com/Witusol/witosol-asset/refs/heads/main/WTSwitusoltoken.png",
         "type": "image/png"
       }
     ],
