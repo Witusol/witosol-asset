@@ -1,14 +1,23 @@
 {
-  "name": "WITUSOL Token",
+  "name": "Witusol",
   "symbol": "WTS",
-  "description": "Token utilitas untuk ekosistem blockchain WITUSOL",
+  "description": "Witusol Token (WTS) is a utility token on the Solana blockchain.",
   "image": "https://raw.githubusercontent.com/Witusol/witosol-asset/main/WTSwitusoltoken.png",
   "seller_fee_basis_points": 0,
-  "external_url": "https://witusol.com",
-  "attributes": [
-    {
-      "trait_type": "Network",
-      "value": "Solana"
-    }
-  ]
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Witusol/witosol-asset/main/WTSwitusoltoken.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "GVTpHRxQPjtQTENf3NTaHimeYUpmDcxoPtrwg7DSeT4c",
+        "share": 100
+      }
+    ]
+  }
 }
